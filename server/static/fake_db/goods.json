@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "companyId": 1,
+        "name": "Сlavia Nord Grand сценическое цифровое пианино",
+        "category": {
+            "id": 1,
+            "name": "Категория 2"
+        },
+        "subcategory": {
+            "id": 3,
+            "name": "Тапки"
+        },
+        "price": 450500,
+        "views": 750,
+        "publicationDate": "10.05.2000",
+        "isPromote": true,
+        "isHidden": false,
+        "imageUrl": "/image/goods:synthesizer.webp"
+    },
+    {
+        "id": 2,
+        "companyId": 1,
+        "name": "Hyundai Sonata 2.0 AT, 2023, 30 км",
+        "category": {
+            "id": 1,
+            "name": "Категория 1"
+        },
+        "subcategory": {
+            "id": 1,
+            "name": "Гробы"
+        },
+        "price": 3285000,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:car.webp"
+    },
+    {
+        "id": 3,
+        "companyId": 1,
+        "name": "2-к. квартира, 46 м², 1/5 эт.",
+        "category": {
+            "id": 2,
+            "name": "Категория 2"
+        },
+        "subcategory": {
+            "id": 4,
+            "name": "Покрывало"
+        },
+        "price": 4800000,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:apartment.webp"
+    },
+    {
+        "id": 4,
+        "companyId": 1,
+        "name": "Старые барабаны",
+        "category": {
+            "id": 1,
+            "name": "Категория 1"
+        },
+        "subcategory": {
+            "id": 2,
+            "name": "Урны"
+        },
+        "price": 7500,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:drums.webp"
+    },
+    {
+        "id": 5,
+        "companyId": 1,
+        "name": "DMX сплиттер RJ45 to 4x XLR Stairville",
+        "category": {
+            "id": 2,
+            "name": "Категория 2"
+        },
+        "subcategory": {
+            "id": 3,
+            "name": "Тапки"
+        },
+        "price": 7500,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:cables.webp"
+    },
+    {
+        "id": 6,
+        "companyId": 1,
+        "name": "Мотоцикл honda",
+        "category": {
+            "id": 1,
+            "name": "Категория 1"
+        },
+        "subcategory": {
+            "id": 1,
+            "name": "Гробы"
+        },
+        "price": 217500,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:motorbike.webp"
+    },
+    {
+        "id": 7,
+        "companyId": 1,
+        "name": "Иж юпитер 5",
+        "category": {
+            "id": 1,
+            "name": "Категория 1"
+        },
+        "subcategory": {
+            "id": 1,
+            "name": "Гробы"
+        },
+        "price": 17900,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": false,
+        "imageUrl": "/image/goods:motorbike2.webp"
+    },
+    {
+        "id": 8,
+        "companyId": 1,
+        "name": "Пылесос кёрхер с водяным мешком для сбора пыли",
+        "category": {
+            "id": 1,
+            "name": "Категория 1"
+        },
+        "subcategory": {
+            "id": 2,
+            "name": "Урны"
+        },
+        "price": 7500,
+        "views": 255,
+        "publicationDate": "10.05.2000",
+        "isPromote": false,
+        "isHidden": true,
+        "imageUrl": "/image/goods:vacuum.webp"
+    }
+]

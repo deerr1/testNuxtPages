@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "companyId": 1,
+        "rating": 4.7,
+        "numberReviews": 19,
+        "isVerified": true
+    }
+]

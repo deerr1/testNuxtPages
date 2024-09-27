@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Дмитрий",
+        "surname": "Хитрый",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться",
+        "imageUrl": "/image/users:user1.webp",
+        "rating": 4.3,
+        "numberReviews": 19,
+        "isVerified": true
+    },
+    {
+        "id": 2,
+        "name": "Апполинарий",
+        "surname": "Землеперекопский",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей.",
+        "imageUrl": "/image/users:user2.webp",
+        "rating": 0,
+        "numberReviews": 0,
+        "isVerified": true
+    },
+    {
+        "id": 3,
+        "name": "Фёдор",
+        "surname": "Сумкин",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться",
+        "imageUrl": "/image/users:user3.webp",
+        "rating": 4.3,
+        "numberReviews": 19,
+        "isVerified": false
+    },
+    {
+        "id": 4,
+        "name": "Василий",
+        "surname": "Копушин",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться",
+        "imageUrl": "/image/users:user4.webp",
+        "rating": 4.3,
+        "numberReviews": 19,
+        "isVerified": true
+    },
+    {
+        "id": 5,
+        "name": "Феофан",
+        "surname": "Кусакин",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться",
+        "imageUrl": "/image/users:user5.webp",
+        "rating": 4.3,
+        "numberReviews": 19,
+        "isVerified": false
+    },
+    {
+        "id": 6,
+        "name": "Василиса",
+        "surname": "Землеперекопская",
+        "companyId": 1,
+        "description": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться",
+        "imageUrl": "/image/users:user1.webp",
+        "rating": 4.3,
+        "numberReviews": 19,
+        "isVerified": true
+    }
+]
