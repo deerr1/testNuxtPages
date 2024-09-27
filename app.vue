@@ -22,6 +22,7 @@
     <!-- <NuxtRouteAnnouncer />
     <NuxtWelcome /> -->
   </div>
+  {{ data.data }}
   {{ val }}
   <v-tabs v-model = "val">
     <v-tab v-for="item in routes" :key="item.value" :text="item.title" :to="item.to"></v-tab>
@@ -33,6 +34,7 @@
 </template>
 
 <script setup>
+const data = await useFetch('/company/1')
 // const theme = ref(null)
 // const listGovna = [
 //   { header: "Dark Themes" },
