@@ -2,6 +2,6 @@
     <div>
         govno
         
-  <img :src="'/image/goods:synthesizer.webp'"/>
+  <img :src="`${$config.app.baseURL}image/goods:synthesizer.webp`"/>
     </div>
 </template>
