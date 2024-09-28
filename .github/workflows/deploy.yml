@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: corepack enable
-      - uses: actions/setup-node@4
+      - uses: actions/setup-node@3
         with:
           node-version: "20"
       # Pick your own package manager and build script
